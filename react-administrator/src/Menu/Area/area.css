@@ -1,0 +1,47 @@
+.movielist{
+    overflow: hidden;
+    position: relative;
+    background-color:   rgb(20, 20, 59);
+    width: 1720px;
+    height: 910px;
+    position: relative;
+    right: 17px;
+}
+.addlist{
+    color:white;
+    background-color:rgb(47, 64, 150);
+    height: 500px;
+    position: relative;
+    top: 200px;
+    right: 17px;
+}
+.addlist1{
+    display: flex;
+    width: 1420px;
+    height: 400px;
+    background-color:whitesmoke;
+    position: relative;
+    left: 158px;
+    top: 45px;
+    padding-left: 10px;
+}
+.addlist3{
+    height: 30px;
+    background-color:whitesmoke;
+    position: relative;
+    left: 89px;
+}
+.addlist2{
+    position: relative;
+    bottom: 355px;
+    left: 168px;
+}
+.add{
+    overflow: hidden;
+    width: 80px;
+    height: 22px;
+    background-color:whitesmoke;
+    position: relative;
+    bottom: 355px;
+    left: 168px;
+}

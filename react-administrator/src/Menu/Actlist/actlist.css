@@ -1,0 +1,33 @@
+.menu{
+    overflow: hidden;
+    position: relative;
+    background-color:   rgb(20, 20, 59);
+    width: 1720px;
+    height: 910px;
+    position: relative;
+    right: 17px;
+}
+.addlist{
+    color:white;
+    background-color:rgb(47, 64, 150);
+    height: 500px;
+    position: relative;
+    top: 200px;
+    right: 17px;
+}
+.button{
+    display: flex;
+    height: 50px;
+    width: 1702px;
+    background-color:rgb(47, 64, 150);
+    position: relative;
+    left: 17px;
+    padding-left: 5px;
+    padding-top: 9px;
+}
+.add{ 
+    width: 1702px;
+    background-color: aquamarine;
+    position: relative;
+    left: 18px;
+}
